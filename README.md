@@ -1,10 +1,7 @@
 
 Soy un líder experimentado en la construccion de proyectos en BI, desde roles de análisis del negocio hasta roles técnicos programando modelos de datos con R, Python, SQL y Power BI. Poseo habilidades de liderazgo en la coordinación y seguimiento de proyectos y tengo una gran atención al detalle. Mi enfoque está en la ciencia de datos 📊, la movilidad urbana 🌱, el transporte masivo de pasajeros 🚌, y el uso de diversas herramientas tecnológicas para la toma de decisiones basadas en datos 📈.
+Estoy particularmente interesado en el aprendizaje automático 🤖, el análisis predictivo 📉 y la optimización de procesos 🔄.
 
-readme_content_final = readme_content_final.replace(
-    "Mi enfoque está en la ciencia de datos 📊, la movilidad sostenible 🌱, el transporte masivo de pasajeros 🚌, y el uso de diversas herramientas tecnológicas para la toma de decisiones basadas en datos 📈.",
-    """Mi enfoque está en la ciencia de datos 📊, la movilidad sostenible 🌱, el transporte masivo de pasajeros 🚌, y el uso de diversas herramientas tecnológicas para la toma de decisiones basadas en datos 📈. Estoy particularmente interesado en el aprendizaje automático 🤖, el análisis predictivo 📉 y la optimización de procesos 🔄."""
-)
 
 📧 **Email**: [javiertellezmarin@gmail.com](mailto:javiertellezmarin@gmail.com)
 
