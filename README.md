@@ -3,8 +3,6 @@ Soy un líder experimentado en la construccion de proyectos en BI, desde roles d
 Estoy particularmente interesado en el aprendizaje automático 🤖, el análisis predictivo 📉 y la optimización de procesos 🔄.
 
 
-📧 **Email**: [javiertellezmarin@gmail.com](mailto:javiertellezmarin@gmail.com)
-
 ### 🎓 Educación
 
 - **Especialista en Gerencia de Proyectos en Inteligencia de Negocios** (2021 – En curso, Politecnico Grancolombiano, Bogotá, Colombia)
@@ -12,10 +10,11 @@ Estoy particularmente interesado en el aprendizaje automático 🤖, el análisi
 
 ### 📘 Formación Complementaria DataCamp
 
-- **Científico de datos con Python**
-- **Ingeniería de datos con Python** (2022 – En curso, DataCamp, Bogotá, Colombia)
-- **Analisis de datos con R** (2021 - 2022, DataCamp, Bogotá, Colombia)
-- **Analisis de datos con PowerBI** (2021 - 2022, DataCamp, Bogotá, Colombia)
+- **Machine Learning Scientist with Python** (2023 – En curso, DataCamp, Nueva York, Estados Unidos)
+- **Científico de datos con Python** (2022 – En curso, DataCamp, Nueva York, Estados Unidos)
+- **Ingeniería de datos con Python** (2022 – En curso, DataCamp, Nueva York, Estados Unidos)
+- **Analisis de datos con R** (2021 - 2022, DataCamp, Bogotá, Nueva York, Estados Unidos)
+- **Analisis de datos con PowerBI** (2021 - 2022, DataCamp, Nueva York, Estados Unidos)
 
 ### 📜 Licencias y Certificaciones
 
@@ -49,10 +48,10 @@ Estoy particularmente interesado en el aprendizaje automático 🤖, el análisi
 - Liderazgo 👥
 - Comunicación Asertiva 🗨️
 - Conocimiento en Transporte 🚌
-- Estadística 📈"""
+- Estadística 📈
 
 ### 📞 Contacto
 
 Para cualquier consulta o colaboración, no dude en contactarme a través de mi correo electrónico
+📧 **Email**: [javiertellezmarin@gmail.com](mailto:javiertellezmarin@gmail.com)
 
-"""
