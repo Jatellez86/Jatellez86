@@ -50,8 +50,8 @@ Estoy particularmente interesado en el aprendizaje automático 🤖, el análisi
 - Conocimiento en Transporte 🚌
 - Estadística 📈
 
-### 📞 Contacto
+📧 **Email**: 
 
 Para cualquier consulta o colaboración, no dude en contactarme a través de mi correo electrónico
-📧 **Email**: [javiertellezmarin@gmail.com](mailto:javiertellezmarin@gmail.com)
+[javiertellezmarin@gmail.com](mailto:javiertellezmarin@gmail.com)
 
