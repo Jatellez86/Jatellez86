@@ -10,12 +10,30 @@ Estoy particularmente interesado en el aprendizaje automático 🤖, el análisi
 - **Especialista en Gerencia de Proyectos en Inteligencia de Negocios** (2021 – En curso, Politecnico Grancolombiano, Bogotá, Colombia)
 - **Ingeniero Industrial** (2014 - 2018, Politecnico Grancolombiano, Bogotá, Colombia)
 
-### 📘 Formación Complementaria
+### 📘 Formación Complementaria DataCamp
 
-- **Científico de datos con Python
+- **Científico de datos con Python**
 - **Ingeniería de datos con Python** (2022 – En curso, DataCamp, Bogotá, Colombia)
 - **Analisis de datos con R** (2021 - 2022, DataCamp, Bogotá, Colombia)
 - **Analisis de datos con PowerBI** (2021 - 2022, DataCamp, Bogotá, Colombia)
+
+### 📜 Licencias y Certificaciones
+
+#### LinkedIn
+- Desarrollo ágil de software (Oct. 2022)
+- Fundamentos de AWS Cloud Services (Sept. 2022)
+- Programación: Estructuras de datos (Sept. 2022)
+- Introducción a AWS: Servicios principales (Sept. 2022)
+- Business Intelligence 1: Obtener y Transformar (Power Query) (May. 2022)
+- Fundamentos esenciales de la programación (May. 2022)
+- Técnicas y herramientas de informes avanzado (Abr. 2022)
+- Pensamiento computacional (Abr. 2022)
+- Python esencial (Abr. 2022)
+
+#### Platzi
+- Curso Profesional de Scrum (Sept. 2021)
+- Curso de Análisis de Negocios para Ciencia de Datos (Sept. 2021)
+"""
 
 ### 🛠️ Habilidades y Herramientas
 
