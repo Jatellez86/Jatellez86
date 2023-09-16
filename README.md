@@ -33,7 +33,7 @@ Estoy particularmente interesado en el aprendizaje automático 🤖, el análisi
 #### Platzi
 - Curso Profesional de Scrum (Sept. 2021)
 - Curso de Análisis de Negocios para Ciencia de Datos (Sept. 2021)
-"""
+
 
 ### 🛠️ Habilidades y Herramientas
 
